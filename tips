@@ -1,0 +1,231 @@
+Facebook Software Engineering Interview Process
+ArticleDuration30 min
+Ninja Brown Bag questions
+Facebook has quite a thorough interviewer training process. In training, we teach new Facebook interviewers on a set of questions called “Ninja Brown Bag” questions. As a result, these are the most common questions used at Facebook and have the highest frequency of coming up.
+
+Here is a list of the most popular ninja brown bag questions used by Facebook interviewers:
+
+Dictionary Lookup with Wildcard (20 minute question)
+
+https://fellows.pathrise.com/knowledge/guides/problem-dictionary-lookup-with-wildcard
+
+Count Islands in a Binary Matrix (20 minute question)
+
+https://fellows.pathrise.com/knowledge/guides/problem-count-all-the-islands-in-a-binary-matrix
+
+Triplets Sum to Zero (20 minute question)
+
+https://fellows.pathrise.com/knowledge/guides/problem-triplets-with-zero-sum-given-an-array-of-distinct-elements
+
+Contiguous Sequences Sums to a Given Integer (20 minute question)
+
+https://fellows.pathrise.com/knowledge/workshops/programming-session-contiguous-sequence-sums-to-a-given-integer
+
+Find Intersection of Two Sorted Arrays (20 minute question)
+
+https://fellows.pathrise.com/knowledge/guides/problem-find-intersection-of-two-sorted-integer-arrays
+
+Letter Combinations of a Phone Number (20 minute question)
+
+https://fellows.pathrise.com/knowledge/guides/problem-letter-combinations-of-a-phone-number
+
+Balance Parens in a String (20 minute question)
+
+https://fellows.pathrise.com/knowledge/guides/problem-balance-the-parenthesis-in-a-string
+
+Serialize and Deserialize a Binary Tree (40 minute question)
+
+https://fellows.pathrise.com/knowledge/guides/problem-serialize-and-deserialize-a-binary-tree
+
+Regular Expression Matching (40 minutes)
+
+https://leetcode.com/problems/regular-expression-matching/description/
+
+DP Solution
+
+Contiguous Sequence Sums to a Given Integer (20 minute question)
+
+https://fellows.pathrise.com/knowledge/workshops/programming-session-contiguous-sequence-sums-to-a-given-integer
+
+Min meeting rooms (20 minute question)
+
+https://fellows.pathrise.com/knowledge/workshops/programming-session-minimum-meeting-rooms
+
+Kth largest element (20 minute question)
+
+https://drive.google.com/drive/u/0/folders/1lTxpdg1jsiCksypM4iqPPdSFKI9Dh85R 
+
+
+Facebook Internal Question Bank (Non Ninja Brown Bag)
+Facebook interviewers can also choose other questions from a question bank. There are about 300 of these questions. It’s difficult to know which question you’re going to get at Facebook because an interviewer can choose any questions they like
+
+https://fellows.pathrise.com/knowledge/guides/problem-123456789-k (20-minute question)
+
+https://fellows.pathrise.com/knowledge/guides/problem-does-a-contiguous-subarray-sum-to-a-given-integer  
+
+Binary Addition
+
+https://leetcode.com/problems/add-binary/ 
+
+https://leetcode.com/problems/roman-to-integer/description/ 
+
+https://drive.google.com/drive/folders/1Z6pujUr1ab-dNe8h1-2F8K3N2GGUt1sV?usp=sharing 
+
+https://leetcode.com/problems/next-permutation/ 
+
+https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/ 
+
+https://www.careercup.com/question?id=5103530547347456
+
+https://leetcode.com/accounts/login/?next=/problems/word-pattern-ii/description/ 
+
+https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/
+
+Find a duplicate in a sorted array of numbers from 1 to N-1
+
+Determine an array can be partitioned such that the left and right array have the same sums
+
+https://codereview.stackexchange.com/questions/178427/given-2-disjoint-sets-of-intervals-find-the-intersections 
+
+Testing palindromes in constant space
+
+https://www.dropbox.com/s/ck3ka7iilu92bfi/facebook_bt_toggle.png?dl=0
+
+Generally, Facebook has less likelihood for DP although there’s still a reasonable chance a DP question will be asked (or it can be solved with DP). There’s a large group of people at Facebook that think DP is not a good measure of an engineer’s problem-solving ability which is why it’s slightly less frequency. This is different than Google and Palantir where DP is much more common. However, we've noticed a trend that as people are getting better at technical interviews DP continuously increasing in frequency even at Facebook.
+
+Ninja Interviews (Two formats)
+
+Ninja interviews are interviews focused on data structures and algorithms. All phone screens for software engineers are ninja interviews. For new grads on onsite, one interview will be a Jedi interview. Ping Derrick when you get to this stage for more info.
+
+There are usually two types of interview formats on “Ninja” interviews. Both formats will have 40 minutes to code and 5 minutes 
+
+Two 20 minute questions (Leetcode Medium)
+
+The interviewer will try to get through two questions in 40 minutes. See the questions above that have “20 minutes” attached to them
+
+One 40 minute question (Leetcode Hard)
+
+The interviewer will ask a leetcode hard question and you’ll have 40 minutes to solve the question. Sometimes the question will start off easier and the interviewer will make it a leetcode hard by adding an additional constraint
+
+Phone screen details
+
+A phone screen will always be a ninja interview. Don’t worry about behavioral questions. They’ll want to maximize the time for you to code. Just be prepped for “Why Facebook” and asking good questions below.
+
+Asking good questions to Facebook engineers
+
+Check out the slide on how to ask good questions to engineers
+
+https://docs.google.com/presentation/d/1jk4M0b4c_yrbXeX0i8BUvscabcwn5j-_TaqhY4aKV4E/edit?usp=drive_web&ouid=110919566577973978550
+
+Other good stuff
+
+Look at the axes: https://fellows.pathrise.com/knowledge/guides/how-tech-companies-evaluate-candidates-on-technical-interviews
+
+The same framework is used at Facebook
+
+Interviewers are trained to leave candidates with a “good experience”. So if you leave feeling like you did well or with a positive experience that doesn’t mean that you passed the hire bar.
+
+Concepts you need to know
+
+Arrays
+
+Strings
+
+Dictionaries and Hashmaps
+
+Sorting algorithms
+
+Merge sort and problems that use variants of it
+
+https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/   
+
+Searching
+
+Binary numbers
+
+https://leetcode.com/problems/add-binary/ 
+
+Heaps (pretty commonly tested compared to other companies)
+
+https://drive.google.com/drive/u/0/folders/1lTxpdg1jsiCksypM4iqPPdSFKI9Dh85R 
+
+https://drive.google.com/drive/folders/1QplB5cdIVglc35TvOplhcnctKMYyN_Iz 
+
+Recursion
+
+Binary search
+
+https://docs.google.com/document/d/1v69L_OUGAIFpWZ1SiswqTo3KmlbAf8GiR0T4yz7oTkY/edit 
+
+DFS and BFS
+
+Graphs
+
+Trees
+
+Binary tree
+
+BSTs
+
+Tries
+
+Problems with 2D Matrices as input
+
+https://drive.google.com/drive/folders/1r0y0Ycvksgx1yYkOhj9eLLjcIFPpuj32 
+
+Queues
+
+Stacks
+
+Dynamic Programming 
+
+Top-down - Memoization
+
+Bottom-up - Tabulation
+
+Less tested
+
+Linked Lists (still good know)
+
+Greedy algorithms
+
+Behavioral questions
+
+Why Facebook?
+
+What is an interesting technical thing that you learn this past year?
+
+What is the most technically challenging problem you solved in the last year?
+
+What you can improve on if you went back?
+
+Empathy and self-awareness questions
+
+Most frequent
+
+Tell me about a time you had a conflict with someone. How did you solve it?
+
+Tell me about a time you received negative feedback. (Prepare at least 2 examples)
+
+Other Versions
+
+How do you like to give and receive feedback?
+
+How do you deal with differences of opinion when working on a team?
+
+Tell me about a time where you and your co-worker disagreed about a technical decision
+
+What were some excellent collaborations you've had?
+
+Facebook “Perks”
+Please don’t ask about these things when a Facebook interview asks you questions because you’ll already know it from here! You can mention them as if you know them though!
+
+Hackamonths
+
+For engineers that have been at the company for more than a year, they can spend an entire month working for another team. There’s a website where teams post “hack-a-months” and engineers can choose to take on that hack-a-month with another team for an entire month. 
+
+Facebook is incredibly encouraging of team mobility and doing a hack-a-month is a good way for engineers to both explore other teams and do a trial to see if there is a mutual fit between the hack-a-monther and the new team.
+
+Bootcamp
+
+This and hack-a-month’s are the more unique parts of Facebook’s culture. Bootcamp is a 6 - 12 week (sometimes more) process where a new Facebook engineer learns the technologies specific to Facebook through a series of classes and small but real engineering tasks. It’s also a time for new engineers to try out different teams they are interested in. Unlike most new grad engineer positions, at Facebook you get to choose what team you want to work for as a bootcamper. 
